@@ -14,7 +14,7 @@
 
 For further reference, please consider the following sections:
 
-* [GitHub](https://github.com/imranov00/kodluyoruzilkrepo)
+* [GitHub](https://github.com/imranov00/SpringBootDemo)
 
 ```sh
 docker
